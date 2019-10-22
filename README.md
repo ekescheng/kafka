@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Role Name
 =========
 
@@ -36,3 +37,7 @@ Author Information
 ------------------
 
 An optional section for the role authors to include contact information, or a website (HTML is not allowed).
+=======
+# kafka
+ansible galaxy install kafka cluster for EL7
+>>>>>>> 8bfeca27da68398ee64dbbc4f18ef366e0b09ec0
